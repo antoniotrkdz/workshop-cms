@@ -1,0 +1,19 @@
+{
+  "name": "workshop-cms",
+  "version": "1.0.0",
+  "description": "cms node workshop with Samatar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniotrkdz/workshop-cms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniotrkdz/workshop-cms/issues"
+  },
+  "homepage": "https://github.com/antoniotrkdz/workshop-cms#readme"
+}
